@@ -1,0 +1,8 @@
+.card-title label{
+  padding-left: 10px;
+}
+.card {
+  height: 100%;
+  color:var(--dart-font-color);
+  text-align: left;
+}

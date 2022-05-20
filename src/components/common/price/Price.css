@@ -1,0 +1,9 @@
+.price-amount {
+  font-size: 16px;
+  font-weight: 900;
+}
+
+.price span{
+  font-size: 12px;
+  font-weight: 400;
+}

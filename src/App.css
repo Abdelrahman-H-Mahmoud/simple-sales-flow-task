@@ -1,0 +1,39 @@
+.app {
+  text-align: center;
+  background-color: rgba(219, 219, 219, 1);
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-weight: normal;
+  font-size: 16px;
+  color: white;
+}
+.app--dark-mode {
+  background-color: rgba(40, 44, 52, 1);
+  --dart-font-color-header:white
+}
+
+.dark-mode-container input{
+  margin: 10px;
+}
+
+
+.row{
+  margin: 15px;
+}
+.align-right{
+  text-align: right;
+}
+
+.text-header{
+  color: var(--dart-font-color-header);
+  font-weight: 800;
+  padding: 20px;
+}
+
+
+.align-left{
+  text-align: left;  
+}
